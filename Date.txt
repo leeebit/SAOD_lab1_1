@@ -1,0 +1,10 @@
+1 Afanasiev Nikita Olegovich 1000 4 4 3 3 5
+2 Belozerov Artem Evgenievich 1100 5 5 5 4 4
+3 Volkov Svyatoslav Vitalievich 1115 4 4 4 4 5
+4 Isutenko Daniil Egorevich 1256 5 5 5 5 5
+5 Klenin Roman Albertovich 1343 4 4 4 3 5
+6 Logvinov Alexei Vasilievich 1223 4 4 4 5 3
+7 Sbrodov Sergei Evgenievich 1335 5 5 5 5 4
+8 Sidortzova Diana Dmitrievna 1445 5 5 5 5 5
+9 Skorohod Vadim Alexseevich 1224 4 4 4 3 4
+10 Shirko Alexandr Alexandrovich 1332 5 4 3 3 4
